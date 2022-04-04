@@ -15,7 +15,7 @@ You are free to choose any library you need (for communication, visualisation, u
 
 #### API Description
 
-The API consists of one event source, accessible at https://jsdemo.envdev.io/sse. The stream is pushing data as array of timeseries with metadata and measurements. A timeserie is key-value map of structure:
+The API consists of one event source, accessible at http://wsdemo.envdev.io/sse. The stream is pushing data as array of timeseries with metadata and measurements. A timeserie is key-value map of structure:
 
 - _id uniquely identifies the timeserie
 - _name_, e.g. Pressure, Temperature, Serial
